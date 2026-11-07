@@ -108,8 +108,10 @@ Relevant IDs must match `paper_id` values in your dataset. The provided example 
 6. Rank results, exclude the seed paper, and display the top K.
 7. Evaluate using manually judged query-paper relevance and Precision@K, Recall@K, MRR and response time.
 8. Compare lexical, semantic and hybrid methods on the same queries and same dataset.
+## System Architecture
 
-## 6. Suggested experiments
+![System Architecture](imagessystem_architecture.png)
+## Suggested experiments
 
 - Vary `alpha` for hybrid ranking (0.25, 0.50, 0.75).
 - Compare title-only versus title + abstract + keywords.
@@ -117,7 +119,7 @@ Relevant IDs must match `paper_id` values in your dataset. The provided example 
 - Report mean Precision@5, Recall@5, MRR and query latency.
 - Include examples where TF-IDF and semantic rankings differ.
 
-## 7. Limitations and ethics
+##  Limitations and ethics
 
 - Recommendations depend on dataset coverage and metadata quality.
 - Semantic similarity is not a guarantee of scientific quality or correctness.
