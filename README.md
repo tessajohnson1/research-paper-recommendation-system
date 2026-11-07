@@ -110,7 +110,7 @@ Relevant IDs must match `paper_id` values in your dataset. The provided example 
 8. Compare lexical, semantic and hybrid methods on the same queries and same dataset.
 ## System Architecture
 
-![System Architecture](imagessystem_architecture.png)
+![System Architecture](images/system_architecture.png)
 ## Suggested experiments
 
 - Vary `alpha` for hybrid ranking (0.25, 0.50, 0.75).
