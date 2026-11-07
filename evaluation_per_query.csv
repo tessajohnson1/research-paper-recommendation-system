@@ -1,0 +1,31 @@
+method,query,precision@5,recall@5,reciprocal_rank,first_relevant_rank
+tfidf,transformer architecture for natural language processing,0.0,0.0,0.16666666666666666,6
+tfidf,BERT pretraining for language understanding,0.8,0.6666666666666666,1.0,1
+tfidf,fake news detection and misinformation classification,0.4,1.0,1.0,1
+tfidf,sentiment analysis using deep learning,0.8,1.0,1.0,1
+tfidf,neural machine translation and sequence to sequence models,0.8,0.36363636363636365,1.0,1
+tfidf,question answering using contextual language models,0.8,0.6666666666666666,1.0,1
+tfidf,text summarization using neural networks,1.0,0.625,1.0,1
+tfidf,named entity recognition and information extraction,1.0,0.5,1.0,1
+tfidf,speech recognition using deep learning,0.2,1.0,0.5,2
+tfidf,research paper recommendation and semantic document retrieval,0.8,0.6666666666666666,1.0,1
+semantic,transformer architecture for natural language processing,0.2,0.3333333333333333,0.3333333333333333,3
+semantic,BERT pretraining for language understanding,1.0,0.8333333333333334,1.0,1
+semantic,fake news detection and misinformation classification,0.4,1.0,1.0,1
+semantic,sentiment analysis using deep learning,0.6,0.75,1.0,1
+semantic,neural machine translation and sequence to sequence models,1.0,0.45454545454545453,1.0,1
+semantic,question answering using contextual language models,0.6,0.5,1.0,1
+semantic,text summarization using neural networks,1.0,0.625,1.0,1
+semantic,named entity recognition and information extraction,0.8,0.4,1.0,1
+semantic,speech recognition using deep learning,0.2,1.0,0.3333333333333333,3
+semantic,research paper recommendation and semantic document retrieval,0.8,0.6666666666666666,1.0,1
+hybrid,transformer architecture for natural language processing,0.0,0.0,0.16666666666666666,6
+hybrid,BERT pretraining for language understanding,0.8,0.6666666666666666,1.0,1
+hybrid,fake news detection and misinformation classification,0.4,1.0,1.0,1
+hybrid,sentiment analysis using deep learning,0.6,0.75,1.0,1
+hybrid,neural machine translation and sequence to sequence models,1.0,0.45454545454545453,1.0,1
+hybrid,question answering using contextual language models,0.8,0.6666666666666666,1.0,1
+hybrid,text summarization using neural networks,1.0,0.625,1.0,1
+hybrid,named entity recognition and information extraction,1.0,0.5,1.0,1
+hybrid,speech recognition using deep learning,0.2,1.0,0.5,2
+hybrid,research paper recommendation and semantic document retrieval,1.0,0.8333333333333334,1.0,1

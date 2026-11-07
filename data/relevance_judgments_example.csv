@@ -1,0 +1,4 @@
+query,relevant_paper_ids
+fake news detection,P003;P004
+semantic embeddings and document retrieval,P007;P008;P015;P020
+sentiment analysis,P012;P013
